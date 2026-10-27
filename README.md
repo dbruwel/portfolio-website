@@ -1,10 +1,10 @@
-# Personal Website
+# Portfolio Website
 
-This repository houses the files for my personal website, a project derived from **Tharindu N. Madhusanka's** website, distributed under the **MIT License**. This derivation acknowledges the original work and adheres to the terms of the MIT License, ensuring appropriate attribution and open-source compliance.
+This repository houses the files for my portfolio website, a project derived from **Tharindu N. Madhusanka's** website, distributed under the **MIT License**. This derivation acknowledges the original work and adheres to the terms of the MIT License, ensuring appropriate attribution and open-source compliance.
 
 ## Website Content and Features
 
-My website is designed to provide a comprehensive and engaging overview of my professional journey, skills, and personal interests. It features the following key sections:
+This website is designed to provide a comprehensive overview of my professional journey, skills, and interests. It features the following key sections:
 
 * Home
 * About
